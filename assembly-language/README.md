@@ -1,3 +1,3 @@
 assembly-language
 
-Code written in classes like ECE 120 / 220, working with LC3 - Machine learning
+Code written in classes where we worked in LC3.
